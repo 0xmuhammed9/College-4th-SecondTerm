@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Cornell-Class",
+    "cornell-banner",
+    "cornell-left",
+    "cornell-right",
+    "customcue"
+  ],
+  "accentColor": "#ac47d1"
+}
